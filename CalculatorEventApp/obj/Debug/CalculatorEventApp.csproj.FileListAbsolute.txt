@@ -1,0 +1,11 @@
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\bin\Debug\CalculatorEventApp.exe.config
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\bin\Debug\CalculatorEventApp.exe
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\bin\Debug\CalculatorEventApp.pdb
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.csprojAssemblyReference.cache
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.CalculatorUtama.resources
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.FrmCalculator.resources
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.Properties.Resources.resources
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.csproj.GenerateResource.cache
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.csproj.CoreCompileInputs.cache
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.exe
+D:\KULIAH 3\Pemrograman Lanjut\P8\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.pdb
